@@ -10,7 +10,10 @@
 :art: **Creativo en proyectos de innovación y marca personal (GoTech)**  
 
 ## Vias de contacto
-![LinkedIn](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2F)
+![LinkeIn](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2F&up_message=LinkedIn&style=social)
+
+
+
 
 
 
