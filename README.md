@@ -1,6 +1,6 @@
 ## Hola, soy Ronald 👋  
 
-:computer: **Operador SCADA y futuro Ingeniero de Datos**  
+:computer: **Operador SCADA e Ingeniero de Datos en formación**  
 :cloud: **Apasionado por la nube, IA y tecnologías emergentes**  
 :hammer_and_wrench: **Técnico electromecánico con experiencia en energía y minería**  
 :books: **Estudiante de Ingeniería de Sistemas (casi graduado 🎓)**  
