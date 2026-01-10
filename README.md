@@ -1,10 +1,10 @@
-## Hola, soy Ronald 👋  
+## Hola, soy Ronald Acosta👋  
 
-:computer: **Operador SCADA e Ingeniero de Datos en formación**  
-:cloud: **Apasionado por la nube, IA y tecnologías emergentes**  
-:hammer_and_wrench: **Técnico electromecánico con experiencia en energía y minería**  
-:books: **Estudiante de Ingeniería de Sistemas (casi graduado 🎓)**  
-:rocket: **Construyendo proyectos de Data Engineering y Machine Learning**  
+:computer: **Operador SCADA e Ingeniero de Sistemas**  
+:cloud: **Apasionado por la ingenieria de datos, la nube, IA y tecnologías emergentes**  
+:hammer_and_wrench: **Experiencia en energía y minería**  
+:books: **Estudiante de Ingeniería de Datos**  
+:rocket: **Construyendo proyectos de Data Engineering**  
 :briefcase: **Consultor en transformación digital y sostenibilidad**  
 :family: **Papá orgulloso**  
 :art: **Creativo en proyectos de innovación y marca personal (GoTech)**  
