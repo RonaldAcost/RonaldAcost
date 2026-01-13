@@ -1,44 +1,41 @@
-# Nombre del workflow.
-# Es el nombre que verás en la pestaña "Actions" de GitHub.
 name: Update README
 
-# Define cuándo se ejecuta este workflow
 on:
-
-  schedule: # agendar el tiempo
-#  ┌───────── minuto (0–59)
-#  │ ┌───────── hora (0–23)
-#  │ │ ┌───────── día del mes (1–31)
-#  │ │ │ ┌───────── mes (1–12)
-#  │ │ │ │ ┌───────── día de la semana (0–6) (0 = domingo)
-#  │ │ │ │ │
-#  * * * * *
-# En la práctica: se ejecuta dos veces al día
-      - cron: "* */12 * * *"
-
-  # Permite ejecutar el workflow manualmente
-  # desde la pestaña Actions con el botón "Run workflow"
+  schedule:
+    # corre 2 veces al día, a las 00:00 y 12:00 UTC
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
-# Definición de los trabajos (jobs) del workflow
+# CLAVE: permiso para commitear/pushear al repo
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: true
+
 jobs:
   build:
-    # Sistema operativo donde se ejecuta el workflow
     runs-on: ubuntu-latest
-    
-    # Nombre descriptivo del job
     name: Update Profile README
-    
-    # Lista de pasos que ejecutará el job
+
     steps:
-      # Paso 1: Clona el repositorio dentro del runner
-      # Esto permite que la Action tenga acceso al README.md
-      - uses: actions/checkout@v4.2.2
-      # Paso 2: Ejecuta una Action del Marketplace
-      # Esta Action obtiene tu actividad reciente en GitHub
-      # y la inserta automáticamente en el README
-      - uses: Readme-Workflows/recent-activity@v2.4.1
-      
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Update recent activity
+        uses: Readme-Workflows/recent-activity@v2.4.1
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_MESSAGE: "chore: update recent activity"
+          COMMIT_NAME: "github-actions[bot]"
+          COMMIT_EMAIL: "github-actions[bot]@users.noreply.github.com"
+          MAX_LINES: 10
+          TARGET_FILE: "README.md"
+
         env:
           # Token automático que GitHub proporciona al workflow
           # Permite autenticar la Action sin exponer credenciales
