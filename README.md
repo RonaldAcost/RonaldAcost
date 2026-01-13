@@ -12,6 +12,7 @@
 ## Vias de contacto
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2F&up_message=Linkedin&up_color=blue)](https://www.linkedin.com/feed/)
 
-### :zap: Actividad Reciente
+
+## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:end-->
