@@ -15,9 +15,9 @@
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [RonaldAcost/RonaldAcost](https://github.com/RonaldAcost/RonaldAcost)<br>
-2. ⬆️ Pushed undefined commit(s) to [RonaldAcost/RonaldAcost](https://github.com/RonaldAcost/RonaldAcost)<br>
-3. ⬆️ Pushed undefined commit(s) to [RonaldAcost/RonaldAcost](https://github.com/RonaldAcost/RonaldAcost)<br>
+1. ⬆️ Pushed undefined commit(s) to [RonaldAcost/miCuartoRepo](https://github.com/RonaldAcost/miCuartoRepo)<br>
+2. ✔️ Closed issue [#1](https://github.com/RonaldAcost/tercerRepo/issues/1) in [RonaldAcost/tercerRepo](https://github.com/RonaldAcost/tercerRepo)<br>
+3. ❗️ Opened issue [#1](https://github.com/RonaldAcost/tercerRepo/issues/1) in [RonaldAcost/tercerRepo](https://github.com/RonaldAcost/tercerRepo)<br>
 4. ⬆️ Pushed undefined commit(s) to [RonaldAcost/RonaldAcost](https://github.com/RonaldAcost/RonaldAcost)<br>
 5. ⬆️ Pushed undefined commit(s) to [RonaldAcost/RonaldAcost](https://github.com/RonaldAcost/RonaldAcost)<br>
 <!--RECENT_ACTIVITY:end-->
