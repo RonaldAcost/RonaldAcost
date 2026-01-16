@@ -15,9 +15,9 @@
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [RonaldAcost/miCuartoRepo](https://github.com/RonaldAcost/miCuartoRepo)<br>
-2. ✔️ Closed issue [#1](https://github.com/RonaldAcost/tercerRepo/issues/1) in [RonaldAcost/tercerRepo](https://github.com/RonaldAcost/tercerRepo)<br>
-3. ❗️ Opened issue [#1](https://github.com/RonaldAcost/tercerRepo/issues/1) in [RonaldAcost/tercerRepo](https://github.com/RonaldAcost/tercerRepo)<br>
-4. ⬆️ Pushed undefined commit(s) to [RonaldAcost/RonaldAcost](https://github.com/RonaldAcost/RonaldAcost)<br>
-5. ⬆️ Pushed undefined commit(s) to [RonaldAcost/RonaldAcost](https://github.com/RonaldAcost/RonaldAcost)<br>
+1. ✌️ Released [v0.1.0](https://github.com/RonaldAcost/miTercerRepo/releases/tag/v0.1.0) in [RonaldAcost/miTercerRepo](https://github.com/RonaldAcost/miTercerRepo)<br>
+2. ⬆️ Pushed undefined commit(s) to [RonaldAcost/miTercerRepo](https://github.com/RonaldAcost/miTercerRepo)<br>
+3. ⬆️ Pushed undefined commit(s) to [RonaldAcost/miCuartoRepo](https://github.com/RonaldAcost/miCuartoRepo)<br>
+4. 💪 Opened PR [#2](undefined) in [RonaldAcost/miCuartoRepo](https://github.com/RonaldAcost/miCuartoRepo)<br>
+5. ⬆️ Pushed undefined commit(s) to [RonaldAcost/miCuartoRepo](https://github.com/RonaldAcost/miCuartoRepo)<br>
 <!--RECENT_ACTIVITY:end-->
