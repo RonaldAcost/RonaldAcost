@@ -15,6 +15,4 @@
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.1.0](https://github.com/RonaldAcost/miTercerRepo/releases/tag/v0.1.0) in [RonaldAcost/miTercerRepo](https://github.com/RonaldAcost/miTercerRepo)<br>
-2. ⬆️ Pushed undefined commit(s) to [RonaldAcost/miTercerRepo](https://github.com/RonaldAcost/miTercerRepo)<br>
 <!--RECENT_ACTIVITY:end-->
