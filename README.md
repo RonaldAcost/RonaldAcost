@@ -4,7 +4,7 @@
 :cloud: **Apasionado por la Ingenieria de Datos, la nube, IA y tecnologías emergentes**  
 :hammer_and_wrench: **Experiencia en energía y minería**  
 :books: **Estudiante de Ingeniería de Datos**  
-:rocket: **Construyendo a proyectos de Ingenieria de Datos**  
+:rocket: **Construyendo proyectos de Ingenieria de Datos**  
 :briefcase: **Consultor en transformación digital y sostenibilidad**  
 :family: **Papá orgulloso**  
 :art: **Creativo en proyectos de innovación y marca personal (GoTech)**  
